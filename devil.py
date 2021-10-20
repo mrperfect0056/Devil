@@ -85,10 +85,6 @@ print  """
 \033[1;93m                                     -🇮
 \033[1;93m                                                -🇱
 """
-\033[1;93m
-\033[1;93m
-\033[1;93m
-
 CorrectUsername = "DARK"
 CorrectPassword = "DEVIL"
 loop = 'true'
